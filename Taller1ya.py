@@ -1,3 +1,4 @@
+#Cristian Alejandro Arias Gallego 
 #Parte A: for, range, contadores y acumuladores
 
 #Contar del 1 al 10
